@@ -1,6 +1,6 @@
 # GitProjects Assignment 1
 
-This repository contains Python files for Assignment 1.
+This repository contains the Python files for Assignment 1.
 
 - Question1Assignment1.py: Controlled Multiplication Loop
 - Question2Assignment1.py: Nested Dictionary from Strings
